@@ -1,0 +1,1398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <inflection_type>change</inflection_type><index>0</index>
+    <word>tilagim</word>
+    <stem_inflectional>tilag</stem_inflectional>
+    <stem_correct>tila</stem_correct>
+    <lemma>tilak</lemma>
+    <formed>tilak+im=tilagim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>1</index>
+    <word>bolaligim</word>
+    <stem_inflectional>bolalig</stem_inflectional>
+    <stem_correct>bola</stem_correct>
+    <lemma>bolalik</lemma>
+    <formed>bolalik+im=bolaligim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>2</index>
+    <word>qishlog‘i</word>
+    <stem_inflectional>qishlog‘</stem_inflectional>
+    <stem_correct>qishloq</stem_correct>
+    <lemma>qishloq</lemma>
+    <formed>qishloq+i=qishlog‘i</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>3</index>
+    <word>bolalikka</word>
+    <stem_inflectional>bolalik</stem_inflectional>
+    <stem_correct>bola</stem_correct>
+    <lemma>bolalik</lemma>
+    <formed>bolalik+ga=bolalikka</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>4</index>
+    <word>qovoqqa</word>
+    <stem_inflectional>qovoq</stem_inflectional>
+    <stem_correct>qovoq</stem_correct>
+    <lemma>qovoq</lemma>
+    <formed>qovoq+ga=qovoqqa</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>5</index>
+    <word>suyuligim</word>
+    <stem_inflectional>suyuklig</stem_inflectional>
+    <stem_correct>suyuk</stem_correct>
+    <lemma>suyulik</lemma>
+    <formed>suyulik+im=suyuligim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>6</index>
+    <word>teshigi</word>
+    <stem_inflectional>teshig</stem_inflectional>
+    <stem_correct>teshik</stem_correct>
+    <lemma>teshik</lemma>
+    <formed>teshik+i=teshigi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>7</index>
+    <word>tuynugi</word>
+    <stem_inflectional>tuynug</stem_inflectional>
+    <stem_correct>tuynuk</stem_correct>
+    <lemma>tuynuk</lemma>
+    <formed>tuynuk+i=tuynugi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>8</index>
+    <word>teragi</word>
+    <stem_inflectional>terag</stem_inflectional>
+    <stem_correct>terak</stem_correct>
+    <lemma>terak</lemma>
+    <formed>terak+gi=teragi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>9</index>
+    <word>kuragi</word>
+    <stem_inflectional>kurag</stem_inflectional>
+    <stem_correct>kurak</stem_correct>
+    <lemma>kurak</lemma>
+    <formed>kurak+gi=kuragi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>10</index>
+    <word>yoshligim</word>
+    <stem_inflectional>yoshlig</stem_inflectional>
+    <stem_correct>yosh</stem_correct>
+    <lemma>yoshlik</lemma>
+    <formed>yoshlik+im=yoshligim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>11</index>
+    <word>chirog‘im</word>
+    <stem_inflectional>chirog‘</stem_inflectional>
+    <stem_correct>chiroq</stem_correct>
+    <lemma>chiroq</lemma>
+    <formed>chiroq+im=chirog‘im</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>12</index>
+    <word>etigi</word>
+    <stem_inflectional>etig</stem_inflectional>
+    <stem_correct>etik</stem_correct>
+    <lemma>etik</lemma>
+    <formed>etik+gi=etigi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>13</index>
+    <word>yuragi</word>
+    <stem_inflectional>yurag</stem_inflectional>
+    <stem_correct>yurak</stem_correct>
+    <lemma>yurak</lemma>
+    <formed>yurak+i=yuragi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>14</index>
+    <word>bilagi</word>
+    <stem_inflectional>bilag</stem_inflectional>
+    <stem_correct>bilak</stem_correct>
+    <lemma>bilak</lemma>
+    <formed>bilak+i=bilagi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>15</index>
+    <word>tovug‘im</word>
+    <stem_inflectional>tovug‘</stem_inflectional>
+    <stem_correct>tovuq</stem_correct>
+    <lemma>tovuq</lemma>
+    <formed>tovuq+im=tovug‘im</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>16</index>
+    <word>to‘quv</word>
+    <stem_inflectional>to‘qu</stem_inflectional>
+    <stem_correct>to‘qi</stem_correct>
+    <lemma>to‘qi</lemma>
+    <formed>to‘qi+v=to‘quv</formed>
+    <rule>I va a tovushi bilan tugagan so‘zlarga -v, -vchi qo‘shimchalari qo‘shilsa, i u ga, a o ga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>17</index>
+    <word>shovulla</word>
+    <stem_inflectional>shovu</stem_inflectional>
+    <stem_correct>shov</stem_correct>
+    <lemma>shov,shovulla</lemma>
+    <formed>shov+illa=shovulla</formed>
+    <rule>Tarkibida u tovushio bo‘lsa, yoki v tovushi bilan tugallansa, -illa qo‘shimchasi -ulla tarzida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>18</index>
+    <word>vovulla</word>
+    <stem_inflectional>vovu</stem_inflectional>
+    <stem_correct>vov</stem_correct>
+    <lemma>vov,vovulla</lemma>
+    <formed>vov+illa=vovulla</formed>
+    <rule>Tarkibida u tovushio bo‘lsa, yoki v tovushi bilan tugallansa, -illa qo‘shimchasi -ulla tarzida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>19</index>
+    <word>yoqqich</word>
+    <stem_inflectional>yoq</stem_inflectional>
+    <stem_correct>yoq</stem_correct>
+    <lemma>yoq</lemma>
+    <formed>yoq+gich=yoqqich</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>20</index>
+    <word>ekkach</word>
+    <stem_inflectional>ek</stem_inflectional>
+    <stem_correct>ek</stem_correct>
+    <lemma>ek</lemma>
+    <formed>ek+gach=ekkach</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>21</index>
+    <word>boqqan</word>
+    <stem_inflectional>boq</stem_inflectional>
+    <stem_correct>boq</stem_correct>
+    <lemma>boq</lemma>
+    <formed>boq+gan=boqqan</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>22</index>
+    <word>chiqquncha</word>
+    <stem_inflectional>chiq</stem_inflectional>
+    <stem_correct>chiq</stem_correct>
+    <lemma>chiq</lemma>
+    <formed>chiq+guncha=chiqquncha</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>23</index>
+    <word>tikkani</word>
+    <stem_inflectional>tik</stem_inflectional>
+    <stem_correct>tik</stem_correct>
+    <lemma>tik</lemma>
+    <formed>tik+gani=tikkani</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>24</index>
+    <word>tirgagi</word>
+    <stem_inflectional>tirgag</stem_inflectional>
+    <stem_correct>tirgak</stem_correct>
+    <lemma>tirgak</lemma>
+    <formed>tirgak+i=tirgagi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>25</index>
+    <word>oqqan</word>
+    <stem_inflectional>oq</stem_inflectional>
+    <stem_correct>oq</stem_correct>
+    <lemma>oq</lemma>
+    <formed>oq+gan=oqqan</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>26</index>
+    <word>qulog‘i</word>
+    <stem_inflectional>qulog‘</stem_inflectional>
+    <stem_correct>quloq</stem_correct>
+    <lemma>quloq</lemma>
+    <formed>quloq+i=qulog‘i</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>27</index>
+    <word>tomog‘i</word>
+    <stem_inflectional>tomog‘</stem_inflectional>
+    <stem_correct>tomoq</stem_correct>
+    <lemma>tomoq</lemma>
+    <formed>tomoq+i=tomog‘i</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>28</index>
+    <word>saylov</word>
+    <stem_inflectional>sayl</stem_inflectional>
+    <stem_correct>sayla</stem_correct>
+    <lemma>sayla,saylov</lemma>
+    <formed>sayla+v=saylov</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>29</index>
+    <word>tarqoq</word>
+    <stem_inflectional>tarqo</stem_inflectional>
+    <stem_correct>tarqa</stem_correct>
+    <lemma>tarqa,tarqoq</lemma>
+    <formed>tarqa+q=tarqoq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>30</index>
+    <word>sayroqi</word>
+    <stem_inflectional>sayro</stem_inflectional>
+    <stem_correct>sayra</stem_correct>
+    <lemma>sayra,sayroqi</lemma>
+    <formed>sayra+qi=sayroqi</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>31</index>
+    <word>yasha</word>
+    <stem_inflectional>yash</stem_inflectional>
+    <stem_correct>yosh</stem_correct>
+    <lemma>yosh,yasha</lemma>
+    <formed>yosh+a=yasha</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>32</index>
+    <word>sanashimiz</word>
+    <stem_inflectional>san</stem_inflectional>
+    <stem_correct>son</stem_correct>
+    <lemma>son,sana,sanash</lemma>
+    <formed>son+a+sh+imiz=sanashimiz</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>33</index>
+    <word>anglamoq</word>
+    <stem_inflectional>ang</stem_inflectional>
+    <stem_correct>ong</stem_correct>
+    <lemma>ong,angla,anglamoq</lemma>
+    <formed>ong+la+moq=anglamoq</formed>
+    <rule>I va a tovushi bilan tugagan so‘zlarga -v, -vchi qo‘shimchalari qo‘shilsa, i u ga, a o ga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>34</index>
+    <word>yoqqich</word>
+    <stem_inflectional>yoq</stem_inflectional>
+    <stem_correct>yoq</stem_correct>
+    <lemma>yoq,yoqqich</lemma>
+    <formed>yoq+gich=yoqqich</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>35</index>
+    <word>ekkani</word>
+    <stem_inflectional>ek</stem_inflectional>
+    <stem_correct>ek</stem_correct>
+    <lemma>ek</lemma>
+    <formed>ek+gani=ekkani</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>36</index>
+    <word>bo‘yoq</word>
+    <stem_inflectional>bo‘yo</stem_inflectional>
+    <stem_correct>bo‘ya</stem_correct>
+    <lemma>bo‘ya,bo‘yoq</lemma>
+    <formed>bo‘ya+q=bo‘yoq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>37</index>
+    <word>o‘quv</word>
+    <stem_inflectional>o‘qu</stem_inflectional>
+    <stem_correct>o‘qi</stem_correct>
+    <lemma>o‘qi,o‘quv</lemma>
+    <formed>o‘qi+v=o‘quv</formed>
+    <rule>I va a tovushi bilan tugagan so‘zlarga -v, -vchi qo‘shimchalari qo‘shilsa, i u ga, a o ga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>38</index>
+    <word>ata</word>
+    <stem_inflectional>at</stem_inflectional>
+    <stem_correct>ot</stem_correct>
+    <lemma>ot,ata</lemma>
+    <formed>ot+a=ata</formed>
+    <rule>I va a tovushi bilan tugagan so‘zlarga -v, -vchi qo‘shimchalari qo‘shilsa, i u ga, a o ga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>39</index>
+    <word>tanlov</word>
+    <stem_inflectional>tanlo</stem_inflectional>
+    <stem_correct>tanla</stem_correct>
+    <lemma>tanla,tanlov</lemma>
+    <formed>tanla+v=tanlov</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>40</index>
+    <word>so‘roq</word>
+    <stem_inflectional>so‘ro</stem_inflectional>
+    <stem_correct>so‘ra</stem_correct>
+    <lemma>so‘ra,so‘roq</lemma>
+    <formed>so‘ra+q=so‘roq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>41</index>
+    <word>yashar</word>
+    <stem_inflectional>yash</stem_inflectional>
+    <stem_correct>yosh</stem_correct>
+    <lemma>yosh,yasha</lemma>
+    <formed>yosh+ar=yashar</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>42</index>
+    <word>qaynoq</word>
+    <stem_inflectional>qayno</stem_inflectional>
+    <stem_correct>qayna</stem_correct>
+    <lemma>qayna,qaynoq</lemma>
+    <formed>qayna+q=qaynoq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>43</index>
+    <word>bukkan</word>
+    <stem_inflectional>buk</stem_inflectional>
+    <stem_correct>buk</stem_correct>
+    <lemma>buk,bukkan</lemma>
+    <formed>buk+gan=bukkan</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>44</index>
+    <word>chiroqqa</word>
+    <stem_inflectional>chiroq</stem_inflectional>
+    <stem_correct>chiroq</stem_correct>
+    <lemma />
+    <formed>chiroq+qa=chiroqqa</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>45</index>
+    <word>taroq</word>
+    <stem_inflectional>taro</stem_inflectional>
+    <stem_correct>tara</stem_correct>
+    <lemma />
+    <formed>tara+q=taroq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>46</index>
+    <word>ilg'or </word>
+    <stem_inflectional>ilg'o</stem_inflectional>
+    <stem_correct>ilg'a</stem_correct>
+    <lemma />
+    <formed>ilg‘a+r=ilg‘or</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>47</index>
+    <word>ishqor</word>
+    <stem_inflectional>ishqo</stem_inflectional>
+    <stem_correct>ishqa</stem_correct>
+    <lemma />
+    <formed>ishqa+r=ishqor</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>48</index>
+    <word>o'ynoqi</word>
+    <stem_inflectional>o'yno</stem_inflectional>
+    <stem_correct>o'yin</stem_correct>
+    <lemma />
+    <formed>o‘yna+q=o‘ynoqi</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>49</index>
+    <word>elagim</word>
+    <stem_inflectional>elag</stem_inflectional>
+    <stem_correct>ela</stem_correct>
+    <lemma />
+    <formed>elak+elagim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>50</index>
+    <word>to'shagim</word>
+    <stem_inflectional>to'shag</stem_inflectional>
+    <stem_correct>to'sha</stem_correct>
+    <lemma />
+    <formed>to‘shak+im=to‘shagim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>51</index>
+    <word>keragim</word>
+    <stem_inflectional>kerag</stem_inflectional>
+    <stem_correct>kerak</stem_correct>
+    <lemma />
+    <formed>kerak+im=keragim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>52</index>
+    <word>ko'ylagim</word>
+    <stem_inflectional>ko'ylag</stem_inflectional>
+    <stem_correct>ko'ylak</stem_correct>
+    <lemma />
+    <formed>ko‘ylak+im=ko‘ylagim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>53</index>
+    <word>kelajakka</word>
+    <stem_inflectional>kelajag</stem_inflectional>
+    <stem_correct>kel</stem_correct>
+    <lemma />
+    <formed>kelajak+ga=kelajakka</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>54</index>
+    <word>ko'makka</word>
+    <stem_inflectional>ko'mak</stem_inflectional>
+    <stem_correct>ko'mak</stem_correct>
+    <lemma />
+    <formed>ko‘mak+ga=ko‘makka</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>55</index>
+    <word>qirg'oqqa</word>
+    <stem_inflectional>qirg'oq</stem_inflectional>
+    <stem_correct>qirg'oq</stem_correct>
+    <lemma />
+    <formed>qirg‘oq+ga=qirg‘oqqa</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>56</index>
+    <word>quvnoq</word>
+    <stem_inflectional>quvno</stem_inflectional>
+    <stem_correct>quvna</stem_correct>
+    <lemma />
+    <formed>quvna+q=quvnoq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>57</index>
+    <word>qatig'i</word>
+    <stem_inflectional>qatig'</stem_inflectional>
+    <stem_correct>qatiq</stem_correct>
+    <lemma />
+    <formed>qatiq+q=qatig‘i</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <inflection_type>change</inflection_type><index>58</index>
+    <word>yumshoq</word>
+    <stem_inflectional>yumsho</stem_inflectional>
+    <stem_correct>yumsha</stem_correct>
+    <lemma />
+    <formed>yumsha+q=yumshoq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>0</index>
+    <word>ayrildi</word>
+    <stem_inflectional>ayr</stem_inflectional>
+    <stem_correct>ayir</stem_correct>
+    <lemma>ayir</lemma>
+    <formed>ayir+il = ayril</formed>
+    <rule>ba'zi fe'llarga -il majhul nisbat qo'shimchasi qo'shilganda ikkinchi bo'g'indagi i tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>1</index>
+    <word>ayrim</word>
+    <stem_inflectional>ayr</stem_inflectional>
+    <stem_correct>ayir</stem_correct>
+    <lemma>ayrim</lemma>
+    <formed>ayir+im = ayrim</formed>
+    <rule>ayir so'ziga -im so'z yasovchi qo'shimcha qo'shilganda i tovushi tusghib qoladi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>2</index>
+    <word>bag'rim</word>
+    <stem_inflectional>bag'r</stem_inflectional>
+    <stem_correct>bag'ir</stem_correct>
+    <lemma>bag'ir</lemma>
+    <formed>bag'ir+im = bag'rim</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>3</index>
+    <word>burni</word>
+    <stem_inflectional>burn</stem_inflectional>
+    <stem_correct>burun</stem_correct>
+    <lemma>burun </lemma>
+    <formed>burun+i = burni</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>4</index>
+    <word>buyruq</word>
+    <stem_inflectional>buyr</stem_inflectional>
+    <stem_correct>buyur</stem_correct>
+    <lemma>buyur, buyruq</lemma>
+    <formed>buyur+uq = buyruq</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud so'zlarlarga unli bilan boshlanuvchi qo'shimcha qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>5</index>
+    <word>ho'ngradi</word>
+    <stem_inflectional>ho'ngr</stem_inflectional>
+    <stem_correct>ho'ngir</stem_correct>
+    <lemma>ho'ngir, ho'ngra</lemma>
+    <formed>ho'ngir+a = ho'ngra</formed>
+    <rule>ikkinchi bo'g'inida i tovushi mavjud so'zlarga -a fe'l yasovchi qo'shimcha qo'shilganda, i tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>6</index>
+    <word>ikkala</word>
+    <stem_inflectional>ikk</stem_inflectional>
+    <stem_correct>ikki</stem_correct>
+    <lemma>ikki</lemma>
+    <formed>ikki+ala = ikkala</formed>
+    <rule>Ikki, olti,yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>7</index>
+    <word>ikkov</word>
+    <stem_inflectional>ikk</stem_inflectional>
+    <stem_correct>ikki</stem_correct>
+    <lemma>ikki</lemma>
+    <formed>ikki+ov = ikkov</formed>
+    <rule>Ikki, olti, yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>8</index>
+    <word>ikkovlon</word>
+    <stem_inflectional>ikk</stem_inflectional>
+    <stem_correct>ikki</stem_correct>
+    <lemma>ikki</lemma>
+    <formed>ikki+ovlon = ikkovlon</formed>
+    <rule>Ikki, olti, yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>9</index>
+    <word>ingra</word>
+    <stem_inflectional>ingr</stem_inflectional>
+    <stem_correct>ingir</stem_correct>
+    <lemma>ingir, ingra</lemma>
+    <formed>ingir+a = ingra</formed>
+    <rule>ikkinchi bo'g'inida i tovushi mavjud so'zlarga -a fe'l yasovchi qo'shimcha qo'shilganda, i tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>10</index>
+    <word>ko'nglim</word>
+    <stem_inflectional>ko'ngl</stem_inflectional>
+    <stem_correct>ko'ngil</stem_correct>
+    <lemma>ko'ngil</lemma>
+    <formed>ko'ngil+im = ko'nglim</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>11</index>
+    <word>meni</word>
+    <stem_inflectional>men</stem_inflectional>
+    <stem_correct>men</stem_correct>
+    <lemma>men</lemma>
+    <formed>men+ni = meni</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>12</index>
+    <word>meniki</word>
+    <stem_inflectional>men</stem_inflectional>
+    <stem_correct>men</stem_correct>
+    <lemma>men</lemma>
+    <formed>men+niki = meniki</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>13</index>
+    <word>mening</word>
+    <stem_inflectional>men</stem_inflectional>
+    <stem_correct>men</stem_correct>
+    <lemma>men</lemma>
+    <formed>men+ning = mening</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>14</index>
+    <word>og'zaki</word>
+    <stem_inflectional>og'z</stem_inflectional>
+    <stem_correct>og'iz</stem_correct>
+    <lemma>og'iz, og'zaki</lemma>
+    <formed>og'iz+aki = og'zaki</formed>
+    <rule>og'iz so'ziga -aki sifat yasovchi qo'shimcha qo'shilganda asosdagi i tovushui tushib qoladi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>15</index>
+    <word>og'zi</word>
+    <stem_inflectional>og'z</stem_inflectional>
+    <stem_correct>og'iz</stem_correct>
+    <lemma>og'iz</lemma>
+    <formed>og'iz+i = og'zi</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>16</index>
+    <word>oltovlon</word>
+    <stem_inflectional>olt</stem_inflectional>
+    <stem_correct>olti</stem_correct>
+    <lemma>olti</lemma>
+    <formed>olti+ovlon = oltovlon</formed>
+    <rule>Ikki, olti, yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>17</index>
+    <word>pasay</word>
+    <stem_inflectional>pas</stem_inflectional>
+    <stem_correct>past</stem_correct>
+    <lemma>past, pasay</lemma>
+    <formed>past+ay = pasay</formed>
+    <rule>Past, sust so'zlariga -ay fe'l yasovchi qo'shimcha qo'shilganda t tovushi tushib qoladi. </rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>18</index>
+    <word>qayrildi</word>
+    <stem_inflectional>qayr</stem_inflectional>
+    <stem_correct>qayir</stem_correct>
+    <lemma>qayir</lemma>
+    <formed>qayir+il = qayril</formed>
+    <rule>ba'zi fe'llarga -il majhul nisbat qo'shimchasi qo'shilganda ikkinchi bo'g'indagi i tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>19</index>
+    <word>qizardi</word>
+    <stem_inflectional>qiz</stem_inflectional>
+    <stem_correct>qizil</stem_correct>
+    <lemma>qizil, qizar</lemma>
+    <formed>qizil+ar = qizar</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud so'zlarlarga unli bilan boshlanuvchi qo'shimcha qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>20</index>
+    <word>qiynaldi</word>
+    <stem_inflectional>qiyn</stem_inflectional>
+    <stem_correct>qiyin</stem_correct>
+    <lemma>qiyin, qiyna</lemma>
+    <formed>qiyin+a =qiyna</formed>
+    <rule>ikkinchi bo'g'inida i tovushi mavjud so'zlarga -a fe'l yasovchi qo'shimcha qo'shilganda, i tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>21</index>
+    <word>qornim</word>
+    <stem_inflectional>qorn</stem_inflectional>
+    <stem_correct>qorin</stem_correct>
+    <lemma>qorin</lemma>
+    <formed>qorina+im = qornim</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>22</index>
+    <word>sarg'aydi</word>
+    <stem_inflectional>sarg'</stem_inflectional>
+    <stem_correct>sariq</stem_correct>
+    <lemma>sariq, sarg'ay</lemma>
+    <formed>sariq+ay = sarg'ay</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud so'zlarlarga unli bilan boshlanuvchi qo'shimcha qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>23</index>
+    <word>seni</word>
+    <stem_inflectional>sen</stem_inflectional>
+    <stem_correct>sen</stem_correct>
+    <lemma>sen</lemma>
+    <formed>sen+ni = seni</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>24</index>
+    <word>seniki</word>
+    <stem_inflectional>sen</stem_inflectional>
+    <stem_correct>sen</stem_correct>
+    <lemma>sen</lemma>
+    <formed>sen+niki = seniki</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>25</index>
+    <word>sening</word>
+    <stem_inflectional>sen</stem_inflectional>
+    <stem_correct>sen</stem_correct>
+    <lemma>sen</lemma>
+    <formed>sen+ning = sening</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>26</index>
+    <word>singli</word>
+    <stem_inflectional>singl</stem_inflectional>
+    <stem_correct>singil</stem_correct>
+    <lemma>singil</lemma>
+    <formed>singil+i = singli</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>27</index>
+    <word>susaydi</word>
+    <stem_inflectional>sus</stem_inflectional>
+    <stem_correct>sust</stem_correct>
+    <lemma>sust, susay</lemma>
+    <formed>sust + ay = susay</formed>
+    <rule>Past, sust so'zlariga -ay fe'l yasovchi qo'shimcha qo'shilganda t tovushi tushib qoladi. </rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>28</index>
+    <word>ulg'ay</word>
+    <stem_inflectional>ulg'</stem_inflectional>
+    <stem_correct>ulug'</stem_correct>
+    <lemma>ulug', ulg'ay</lemma>
+    <formed>ulug'+ay = ulg'ay</formed>
+    <rule>ulug' so'ziga -ay fe'l yasovchi qo'shimcha qo'shilganda ikkinchi bo'gindagi u tovushi tushib qoladi. </rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>29</index>
+    <word>o'rnatdi</word>
+    <stem_inflectional>o'rn</stem_inflectional>
+    <stem_correct>o'rin</stem_correct>
+    <lemma>o'rin, o'rna</lemma>
+    <formed>o'rin+a = o'rna</formed>
+    <rule>ikkinchi bo'g'inida i tovushi mavjud so'zlarga -a fe'l yasovchi qo'shimcha qo'shilganda, i tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>30</index>
+    <word>o'rnim</word>
+    <stem_inflectional>o'rn</stem_inflectional>
+    <stem_correct>o'rin</stem_correct>
+    <lemma>o'rin</lemma>
+    <formed>o'rin+im = o'rnim</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>31</index>
+    <word>o'ynadi</word>
+    <stem_inflectional>o'yn</stem_inflectional>
+    <stem_correct>o'yin</stem_correct>
+    <lemma>o'yin, o'yna</lemma>
+    <formed>o'yin+a = o'yna</formed>
+    <rule>ikkinchi bo'g'inida i tovushi mavjud so'zlarga -a fe'l yasovchi qo'shimcha qo'shilganda, i tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>32</index>
+    <word>o'g'li</word>
+    <stem_inflectional>o'g'l</stem_inflectional>
+    <stem_correct>o'g'li</stem_correct>
+    <lemma>o'g'il</lemma>
+    <formed>o'g'il+i = o'g'li</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>33</index>
+    <word>yetolmadi</word>
+    <stem_inflectional>yetol</stem_inflectional>
+    <stem_correct>yeta ol</stem_correct>
+    <lemma>yetol</lemma>
+    <formed>yeta+ol = yetol</formed>
+    <rule>ko'makchi fe'lli so'z qo'shilmasida olmoq ko'makchi fe'li yetakchi fe'lga qo'shib yozilganda yetakchi fe'lning oxirgi a tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>34</index>
+    <word>yettov</word>
+    <stem_inflectional>yett</stem_inflectional>
+    <stem_correct>yetti</stem_correct>
+    <lemma>yetti</lemma>
+    <formed>yetti+ov = yettov</formed>
+    <rule>Ikki, olti, yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>35</index>
+    <word>yettovlon</word>
+    <stem_inflectional>yett</stem_inflectional>
+    <stem_correct>yetti</stem_correct>
+    <lemma>yetti</lemma>
+    <formed>yetti+ovlon = yettovlon</formed>
+    <rule>Ikki, olti, yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>36</index>
+    <word>yig'la</word>
+    <stem_inflectional>yig'</stem_inflectional>
+    <stem_correct>yig'i</stem_correct>
+    <lemma>yig'i, yig'la</lemma>
+    <formed>yig'i+la = yig'la</formed>
+    <rule>i tovushi bilan tugagan otlarga -la fe'l yasovchi qo'shimcha qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>37</index>
+    <word>zahri</word>
+    <stem_inflectional>zahr</stem_inflectional>
+    <stem_correct>zahar</stem_correct>
+    <lemma>zahar</lemma>
+    <formed>zahar+i = zahri</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>decrease</inflection_type><index>38</index>
+    <word>shahri</word>
+    <stem_inflectional>shahr</stem_inflectional>
+    <stem_correct>shahar</stem_correct>
+    <lemma>shahar</lemma>
+    <formed>shahar+i = shahri</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>0</index>
+    <word>o‘shanday</word>
+    <stem_inflectional>o'shan</stem_inflectional>
+    <stem_correct>o‘sha</stem_correct>
+    <lemma>o‘sha</lemma>
+    <formed>o‘sha+day=o‘shanday</formed>
+    <rule>qiyosiy day qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>1</index>
+    <word>shunga</word>
+    <stem_inflectional>shun</stem_inflectional>
+    <stem_correct>shu</stem_correct>
+    <lemma>shu</lemma>
+    <formed>shu+ga=shunga</formed>
+    <rule>jo'nalish kelishigi qo'shilganligi sababi bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>2</index>
+    <word>bunga</word>
+    <stem_inflectional>bun</stem_inflectional>
+    <stem_correct>bu</stem_correct>
+    <lemma>bu</lemma>
+    <formed>bu+ga=bunga</formed>
+    <rule>Jo'nalish kelishigi qo'shilganligi sababi bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>3</index>
+    <word>unga</word>
+    <stem_inflectional>un</stem_inflectional>
+    <stem_correct>u</stem_correct>
+    <lemma>u</lemma>
+    <formed>u+ga=unga</formed>
+    <rule>Jo'nalish kelishigi qo'shilganligi sababi bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>4</index>
+    <word>shunday</word>
+    <stem_inflectional>shun</stem_inflectional>
+    <stem_correct>shu</stem_correct>
+    <lemma>shu</lemma>
+    <formed>shu+day=shunday</formed>
+    <rule>qiyosiy day qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>5</index>
+    <word>bunday</word>
+    <stem_inflectional>bun</stem_inflectional>
+    <stem_correct>bu</stem_correct>
+    <lemma>bu</lemma>
+    <formed>bu+day=bunday</formed>
+    <rule>qiyosiy day qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>6</index>
+    <word>o‘shanga</word>
+    <stem_inflectional>o'shan</stem_inflectional>
+    <stem_correct>o‘sha</stem_correct>
+    <lemma>o‘sha</lemma>
+    <formed>o‘sha+ga=o‘shanga</formed>
+    <rule>jo'nalish kelishigi qo'shilganligi sababi bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>7</index>
+    <word>issiq</word>
+    <stem_inflectional>iss</stem_inflectional>
+    <stem_correct>isi</stem_correct>
+    <lemma>is, issiq</lemma>
+    <formed>isi +q=issiq</formed>
+    <rule> q qo'shimchasi qo'shilganligi sababli bitta s harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>8</index>
+    <word>achchiq</word>
+    <stem_inflectional>achch</stem_inflectional>
+    <stem_correct>achi</stem_correct>
+    <lemma>achi, achchiq</lemma>
+    <formed>achi+q=achchiq</formed>
+    <rule>q qo'shimchasi qo'shilganligi sababli bitta ch harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>9</index>
+    <word>sassiq</word>
+    <stem_inflectional>sass</stem_inflectional>
+    <stem_correct>sasi</stem_correct>
+    <lemma>sasi, sassiq</lemma>
+    <formed>sasi+q=sassiq</formed>
+    <rule> q qo'shimchasi qo'shilganligi sababli bitta s harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>10</index>
+    <word>qattiq</word>
+    <stem_inflectional>qatt</stem_inflectional>
+    <stem_correct>qati</stem_correct>
+    <lemma>qati, qattiq</lemma>
+    <formed>qati+q=qattiq</formed>
+    <rule>q qo'shimchasi qo'shilganligi sababli bitta q harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>11</index>
+    <word>mavzuyim</word>
+    <stem_inflectional>mavzuy</stem_inflectional>
+    <stem_correct>mavzu</stem_correct>
+    <lemma>mavzu</lemma>
+    <formed>mavzu+im=mavzuyim</formed>
+    <rule>egalik qo'shimchasi im qo'shilganligi sababli bitta y harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>12</index>
+    <word>parvoying</word>
+    <stem_inflectional>parvoy</stem_inflectional>
+    <stem_correct>parvo</stem_correct>
+    <lemma>parvo</lemma>
+    <formed>parvo+ing=parvoying</formed>
+    <rule>ikkinchi shaxs qo'shimchasi ing qo'shilganligi sababli bitta y harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>13</index>
+    <word>avzoyim</word>
+    <stem_inflectional>avzoy</stem_inflectional>
+    <stem_correct>avzo</stem_correct>
+    <lemma>avzo</lemma>
+    <formed>avzo+im=avzoyim</formed>
+    <rule>egalik qo'shimchasi im qo'shilganligi sababli bitta y harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>14</index>
+    <word>obro‘yingiz</word>
+    <stem_inflectional>obro'y</stem_inflectional>
+    <stem_correct>obro‘</stem_correct>
+    <lemma>obro‘</lemma>
+    <formed>obro‘+ingiz=obro‘yingiz</formed>
+    <rule>2 shaxs  qo'shimchasi ingiz qo'shilganligi sababli bitta y harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>15</index>
+    <word>mavqeyimiz</word>
+    <stem_inflectional>mavqey</stem_inflectional>
+    <stem_correct>mavqe</stem_correct>
+    <lemma>mavqe</lemma>
+    <formed>mavqe+imiz=mavqeyimiz</formed>
+    <rule>egalik qo'shimchasi im qo'shilganligi sababli bitta y harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>16</index>
+    <word>hissiy</word>
+    <stem_inflectional>hiss</stem_inflectional>
+    <stem_correct>his</stem_correct>
+    <lemma>his, hissiy</lemma>
+    <formed>his+iy=hissiy</formed>
+    <rule>iy qo'shimchasi qo'shilganligi sababli bitta s harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>17</index>
+    <word>tibbiy</word>
+    <stem_inflectional>tibb</stem_inflectional>
+    <stem_correct>tib</stem_correct>
+    <lemma>tib, tibbiy</lemma>
+    <formed>tib+iy=tibbiy</formed>
+    <rule>iy qo'shimchasi qo'shilganligi sababli bitta b harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>18</index>
+    <word>jizza</word>
+    <stem_inflectional>jizz</stem_inflectional>
+    <stem_correct>jiz</stem_correct>
+    <lemma>jiz, jizza</lemma>
+    <formed>jiz+a=jizza</formed>
+    <rule>a qo'shimchasi qo'shilganligi sababli bitta z harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>19</index>
+    <word>shartta</word>
+    <stem_inflectional>shartt</stem_inflectional>
+    <stem_correct>shart</stem_correct>
+    <lemma>shart, shartta</lemma>
+    <formed>shart+a=shartta</formed>
+    <rule>a qo'shimchasi qo'shilganligi sababli bitta t harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>20</index>
+    <word>taqqa</word>
+    <stem_inflectional>taqq</stem_inflectional>
+    <stem_correct>taq</stem_correct>
+    <lemma>taq, taqqa</lemma>
+    <formed>taq+a=taqqa</formed>
+    <rule>a qo'shimchasi qo'shilganligi sababli bitta q harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>21</index>
+    <word>sharros</word>
+    <stem_inflectional>sharr</stem_inflectional>
+    <stem_correct>shar</stem_correct>
+    <lemma>shar,sharros</lemma>
+    <formed>shar+os=sharros</formed>
+    <rule>os qo'shimchasi qo'shilganligi sababli bitta r harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>22</index>
+    <word>chuvvos</word>
+    <stem_inflectional>chuvv</stem_inflectional>
+    <stem_correct>chuv</stem_correct>
+    <lemma>chuv, chuvvos</lemma>
+    <formed>chuv+os=chuvvos</formed>
+    <rule>os qo'shimchasi qo'shilganligi sababli bitta r harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>23</index>
+    <word>varrak</word>
+    <stem_inflectional>varr</stem_inflectional>
+    <stem_correct>var</stem_correct>
+    <lemma>var, varrak</lemma>
+    <formed>var+ak=varrak</formed>
+    <rule>ak qo'shimchasi qo'shilganligi sababli bitta r harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>24</index>
+    <word>g'urrak</word>
+    <stem_inflectional>g'urr</stem_inflectional>
+    <stem_correct>g'ur</stem_correct>
+    <lemma>g'ur, g'urrak</lemma>
+    <formed>g'ur+ak=g'urrak</formed>
+    <rule>ak qo'shimchasi qo'shilganligi sababli bitta r harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>25</index>
+    <word>yeyilmoq</word>
+    <stem_inflectional>yey</stem_inflectional>
+    <stem_correct>yemoq</stem_correct>
+    <lemma>ye</lemma>
+    <formed>yemoq+il=yeyilmoq</formed>
+    <rule>il qo'shimchasi qo'shilganligi sababli bitta y harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>26</index>
+    <word>deyilmoq</word>
+    <stem_inflectional>dey</stem_inflectional>
+    <stem_correct>demoq</stem_correct>
+    <lemma>de</lemma>
+    <formed>demoq+il=deyilmoq</formed>
+    <rule>il qo'shimchasi qo'shilganligi sababli bitta y harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>27</index>
+    <word>unim</word>
+    <stem_inflectional>un</stem_inflectional>
+    <stem_correct>u</stem_correct>
+    <lemma>u</lemma>
+    <formed>u+im=unim</formed>
+    <rule>egalik  qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>28</index>
+    <word>bunim</word>
+    <stem_inflectional>bun</stem_inflectional>
+    <stem_correct>bu</stem_correct>
+    <lemma>bu</lemma>
+    <formed>bu+im=bunim</formed>
+    <rule>egalik  qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>29</index>
+    <word>o‘shanaqa</word>
+    <stem_inflectional>o'shan</stem_inflectional>
+    <stem_correct>o‘sha</stem_correct>
+    <lemma>o‘sha</lemma>
+    <formed>o‘sha+aqa=o‘shanaqa</formed>
+    <rule>aqa  qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>30</index>
+    <word>bunaqa</word>
+    <stem_inflectional>bun</stem_inflectional>
+    <stem_correct>bu</stem_correct>
+    <lemma>bu</lemma>
+    <formed>bu+aqa=bunaqa</formed>
+    <rule>aqa  qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>31</index>
+    <word>deyishmoq</word>
+    <stem_inflectional>dey</stem_inflectional>
+    <stem_correct>demoq</stem_correct>
+    <lemma>de,demoq</lemma>
+    <formed>demoq+ish=deyishmoq</formed>
+    <rule>ish  qo'shimchasi qo'shilganligi sababli bitta y harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>32</index>
+    <word>yeyishmoq</word>
+    <stem_inflectional>yey</stem_inflectional>
+    <stem_correct>yemoq</stem_correct>
+    <lemma>ye,yemoq</lemma>
+    <formed>yemoq+ish=yeyishmoq</formed>
+    <rule>ish  qo'shimchasi qo'shilganligi sababli bitta y harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>33</index>
+    <word>buncha</word>
+    <stem_inflectional>bun</stem_inflectional>
+    <stem_correct>bu</stem_correct>
+    <lemma>bu</lemma>
+    <formed>bu+cha=buncha</formed>
+    <rule>cha  qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>34</index>
+    <word>shuncha</word>
+    <stem_inflectional>shun</stem_inflectional>
+    <stem_correct>shu</stem_correct>
+    <lemma>shu</lemma>
+    <formed>shu+cha=shuncha</formed>
+    <rule>cha  qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>35</index>
+    <word>uncha</word>
+    <stem_inflectional>un</stem_inflectional>
+    <stem_correct>u</stem_correct>
+    <lemma>u</lemma>
+    <formed>u+cha=uncha</formed>
+    <rule>cha  qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>36</index>
+    <word>bunda</word>
+    <stem_inflectional>bun</stem_inflectional>
+    <stem_correct>bu</stem_correct>
+    <lemma>bu</lemma>
+    <formed>bu+da=bunda</formed>
+    <rule>o'rin-payt qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>37</index>
+    <word>shunda</word>
+    <stem_inflectional>shun</stem_inflectional>
+    <stem_correct>shu</stem_correct>
+    <lemma>shu</lemma>
+    <formed>shu+da=shunda</formed>
+    <rule>o'rin-payt qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>38</index>
+    <word>unda</word>
+    <stem_inflectional>un</stem_inflectional>
+    <stem_correct>u</stem_correct>
+    <lemma>u</lemma>
+    <formed>u+da=unda</formed>
+    <rule>o'rin-payt qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>39</index>
+    <word>o‘shanda</word>
+    <stem_inflectional>o'shan</stem_inflectional>
+    <stem_correct>o‘sha</stem_correct>
+    <lemma>o‘sha</lemma>
+    <formed>o‘sha+da=o‘shanda</formed>
+    <rule>o'rin-payt qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>40</index>
+    <word>o‘shancha</word>
+    <stem_inflectional>o'shan</stem_inflectional>
+    <stem_correct>o‘sha</stem_correct>
+    <lemma>o‘sha</lemma>
+    <formed>o‘sha+cha=o‘shancha</formed>
+    <rule>cha  qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>41</index>
+    <word>bundan</word>
+    <stem_inflectional>bun</stem_inflectional>
+    <stem_correct>bu</stem_correct>
+    <lemma>bu</lemma>
+    <formed>bu+dan=bundan</formed>
+    <rule>chiqish qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>42</index>
+    <word>undan</word>
+    <stem_inflectional>un</stem_inflectional>
+    <stem_correct>u</stem_correct>
+    <lemma>u</lemma>
+    <formed>u+dan=undan</formed>
+    <rule>chiqish qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>43</index>
+    <word>shundan</word>
+    <stem_inflectional>shun</stem_inflectional>
+    <stem_correct>shu</stem_correct>
+    <lemma>shu</lemma>
+    <formed>shu+dan=shundan</formed>
+    <rule>chiqish qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>44</index>
+    <word>o‘shandan</word>
+    <stem_inflectional>o'shan</stem_inflectional>
+    <stem_correct>o‘sha</stem_correct>
+    <lemma>o‘sha</lemma>
+    <formed>o‘sha+dan=o‘shandan</formed>
+    <rule>chiqish qo'shimchasi qo'shilganligi sababli bitta n harfi ortgan</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>45</index>
+    <word />
+    <stem_inflectional />
+    <stem_correct />
+    <lemma />
+    <formed />
+    <rule />
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>46</index>
+    <word>unaqa</word>
+    <stem_inflectional>un</stem_inflectional>
+    <stem_correct>u</stem_correct>
+    <lemma>u</lemma>
+    <formed>u + aqa = anaqa</formed>
+    <rule />
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>47</index>
+    <word>shunaqa</word>
+    <stem_inflectional>shun</stem_inflectional>
+    <stem_correct>shu</stem_correct>
+    <lemma>shu</lemma>
+    <formed>shu + aqa = shunaqa</formed>
+    <rule />
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>48</index>
+    <word>xurrak</word>
+    <stem_inflectional>xurr</stem_inflectional>
+    <stem_correct>xur</stem_correct>
+    <lemma>xurrak</lemma>
+    <formed>xur + ak = xurrak </formed>
+    <rule />
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>49</index>
+    <word>fanniy</word>
+    <stem_inflectional>fann</stem_inflectional>
+    <stem_correct>fan</stem_correct>
+    <lemma>fan, fanniy</lemma>
+    <formed>fan + iy =fanniy</formed>
+    <rule />
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>50</index>
+    <word>haqqim</word>
+    <stem_inflectional>haqq</stem_inflectional>
+    <stem_correct>haq</stem_correct>
+    <lemma>haqqim,haq</lemma>
+    <formed>haq+i+m=haqqim</formed>
+    <rule />
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>51</index>
+    <word>haddingiz</word>
+    <stem_inflectional>hadd</stem_inflectional>
+    <stem_correct>had</stem_correct>
+    <lemma>haddingiz,had</lemma>
+    <formed>had+i+m=haddim</formed>
+    <rule />
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>52</index>
+    <word>Robbim</word>
+    <stem_inflectional>Robb</stem_inflectional>
+    <stem_correct>Rob</stem_correct>
+    <lemma>Robbim,Rob</lemma>
+    <formed>Rob+i+m=Robbim</formed>
+    <rule />
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>53</index>
+    <word>unisi</word>
+    <stem_inflectional>un</stem_inflectional>
+    <stem_correct>u</stem_correct>
+    <lemma>u,uni</lemma>
+    <formed>u+isi=unisi</formed>
+    <rule>isi qo'shimchasi qo'shilganligi sababli ko'rsatish olmoshlarida bitta n harfi ortadi</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>54</index>
+    <word>bunisi</word>
+    <stem_inflectional>bun</stem_inflectional>
+    <stem_correct />
+    <lemma>bu, buni</lemma>
+    <formed>bu+isi=bunisi</formed>
+    <rule>isi qo'shimchasi qo'shilganligi sababli ko'rsatish olmoshlarida bitta n harfi ortadi</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>55</index>
+    <word>shunisi</word>
+    <stem_inflectional>shun</stem_inflectional>
+    <stem_correct />
+    <lemma>shu,shuni</lemma>
+    <formed>shu+isi=shunisi</formed>
+    <rule>isi qo'shimchasi qo'shilganligi sababli ko'rsatish olmoshlarida bitta n harfi ortadi</rule>
+  </row>
+  <row>
+    <inflection_type>increase</inflection_type><index>56</index>
+    <word>o'shanisi</word>
+    <stem_inflectional>o'shan</stem_inflectional>
+    <stem_correct />
+    <lemma>o'sha, o'shani</lemma>
+    <formed>o'sha=isi=o'shanisi</formed>
+    <rule>isi qo'shimchasi qo'shilganligi sababli ko'rsatish olmoshlarida bitta n harfi ortadi</rule>
+  </row>
+</data>

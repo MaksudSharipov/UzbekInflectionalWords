@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <word>tilagim</word>
+    <stem_inflectional>tilag</stem_inflectional>
+    <stem_correct>tila</stem_correct>
+    <lemma>tilak</lemma>
+    <formed>tilak+im=tilagim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>1</index>
+    <word>bolaligim</word>
+    <stem_inflectional>bolalig</stem_inflectional>
+    <stem_correct>bola</stem_correct>
+    <lemma>bolalik</lemma>
+    <formed>bolalik+im=bolaligim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>2</index>
+    <word>qishlog‘i</word>
+    <stem_inflectional>qishlog‘</stem_inflectional>
+    <stem_correct>qishloq</stem_correct>
+    <lemma>qishloq</lemma>
+    <formed>qishloq+i=qishlog‘i</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>3</index>
+    <word>bolalikka</word>
+    <stem_inflectional>bolalik</stem_inflectional>
+    <stem_correct>bola</stem_correct>
+    <lemma>bolalik</lemma>
+    <formed>bolalik+ga=bolalikka</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>4</index>
+    <word>qovoqqa</word>
+    <stem_inflectional>qovoq</stem_inflectional>
+    <stem_correct>qovoq</stem_correct>
+    <lemma>qovoq</lemma>
+    <formed>qovoq+ga=qovoqqa</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>5</index>
+    <word>suyuligim</word>
+    <stem_inflectional>suyuklig</stem_inflectional>
+    <stem_correct>suyuk</stem_correct>
+    <lemma>suyulik</lemma>
+    <formed>suyulik+im=suyuligim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>6</index>
+    <word>teshigi</word>
+    <stem_inflectional>teshig</stem_inflectional>
+    <stem_correct>teshik</stem_correct>
+    <lemma>teshik</lemma>
+    <formed>teshik+i=teshigi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>7</index>
+    <word>tuynugi</word>
+    <stem_inflectional>tuynug</stem_inflectional>
+    <stem_correct>tuynuk</stem_correct>
+    <lemma>tuynuk</lemma>
+    <formed>tuynuk+i=tuynugi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>8</index>
+    <word>teragi</word>
+    <stem_inflectional>terag</stem_inflectional>
+    <stem_correct>terak</stem_correct>
+    <lemma>terak</lemma>
+    <formed>terak+gi=teragi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>9</index>
+    <word>kuragi</word>
+    <stem_inflectional>kurag</stem_inflectional>
+    <stem_correct>kurak</stem_correct>
+    <lemma>kurak</lemma>
+    <formed>kurak+gi=kuragi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>10</index>
+    <word>yoshligim</word>
+    <stem_inflectional>yoshlig</stem_inflectional>
+    <stem_correct>yosh</stem_correct>
+    <lemma>yoshlik</lemma>
+    <formed>yoshlik+im=yoshligim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>11</index>
+    <word>chirog‘im</word>
+    <stem_inflectional>chirog‘</stem_inflectional>
+    <stem_correct>chiroq</stem_correct>
+    <lemma>chiroq</lemma>
+    <formed>chiroq+im=chirog‘im</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>12</index>
+    <word>etigi</word>
+    <stem_inflectional>etig</stem_inflectional>
+    <stem_correct>etik</stem_correct>
+    <lemma>etik</lemma>
+    <formed>etik+gi=etigi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>13</index>
+    <word>yuragi</word>
+    <stem_inflectional>yurag</stem_inflectional>
+    <stem_correct>yurak</stem_correct>
+    <lemma>yurak</lemma>
+    <formed>yurak+i=yuragi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>14</index>
+    <word>bilagi</word>
+    <stem_inflectional>bilag</stem_inflectional>
+    <stem_correct>bilak</stem_correct>
+    <lemma>bilak</lemma>
+    <formed>bilak+i=bilagi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>15</index>
+    <word>tovug‘im</word>
+    <stem_inflectional>tovug‘</stem_inflectional>
+    <stem_correct>tovuq</stem_correct>
+    <lemma>tovuq</lemma>
+    <formed>tovuq+im=tovug‘im</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>16</index>
+    <word>to‘quv</word>
+    <stem_inflectional>to‘qu</stem_inflectional>
+    <stem_correct>to‘qi</stem_correct>
+    <lemma>to‘qi</lemma>
+    <formed>to‘qi+v=to‘quv</formed>
+    <rule>I va a tovushi bilan tugagan so‘zlarga -v, -vchi qo‘shimchalari qo‘shilsa, i u ga, a o ga aylanadi</rule>
+  </row>
+  <row>
+    <index>17</index>
+    <word>shovulla</word>
+    <stem_inflectional>shovu</stem_inflectional>
+    <stem_correct>shov</stem_correct>
+    <lemma>shov,shovulla</lemma>
+    <formed>shov+illa=shovulla</formed>
+    <rule>Tarkibida u tovushio bo‘lsa, yoki v tovushi bilan tugallansa, -illa qo‘shimchasi -ulla tarzida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>18</index>
+    <word>vovulla</word>
+    <stem_inflectional>vovu</stem_inflectional>
+    <stem_correct>vov</stem_correct>
+    <lemma>vov,vovulla</lemma>
+    <formed>vov+illa=vovulla</formed>
+    <rule>Tarkibida u tovushio bo‘lsa, yoki v tovushi bilan tugallansa, -illa qo‘shimchasi -ulla tarzida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>19</index>
+    <word>yoqqich</word>
+    <stem_inflectional>yoq</stem_inflectional>
+    <stem_correct>yoq</stem_correct>
+    <lemma>yoq</lemma>
+    <formed>yoq+gich=yoqqich</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>20</index>
+    <word>ekkach</word>
+    <stem_inflectional>ek</stem_inflectional>
+    <stem_correct>ek</stem_correct>
+    <lemma>ek</lemma>
+    <formed>ek+gach=ekkach</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>21</index>
+    <word>boqqan</word>
+    <stem_inflectional>boq</stem_inflectional>
+    <stem_correct>boq</stem_correct>
+    <lemma>boq</lemma>
+    <formed>boq+gan=boqqan</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>22</index>
+    <word>chiqquncha</word>
+    <stem_inflectional>chiq</stem_inflectional>
+    <stem_correct>chiq</stem_correct>
+    <lemma>chiq</lemma>
+    <formed>chiq+guncha=chiqquncha</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>23</index>
+    <word>tikkani</word>
+    <stem_inflectional>tik</stem_inflectional>
+    <stem_correct>tik</stem_correct>
+    <lemma>tik</lemma>
+    <formed>tik+gani=tikkani</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>24</index>
+    <word>tirgagi</word>
+    <stem_inflectional>tirgag</stem_inflectional>
+    <stem_correct>tirgak</stem_correct>
+    <lemma>tirgak</lemma>
+    <formed>tirgak+i=tirgagi</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>25</index>
+    <word>oqqan</word>
+    <stem_inflectional>oq</stem_inflectional>
+    <stem_correct>oq</stem_correct>
+    <lemma>oq</lemma>
+    <formed>oq+gan=oqqan</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>26</index>
+    <word>qulog‘i</word>
+    <stem_inflectional>qulog‘</stem_inflectional>
+    <stem_correct>quloq</stem_correct>
+    <lemma>quloq</lemma>
+    <formed>quloq+i=qulog‘i</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>27</index>
+    <word>tomog‘i</word>
+    <stem_inflectional>tomog‘</stem_inflectional>
+    <stem_correct>tomoq</stem_correct>
+    <lemma>tomoq</lemma>
+    <formed>tomoq+i=tomog‘i</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>28</index>
+    <word>saylov</word>
+    <stem_inflectional>sayl</stem_inflectional>
+    <stem_correct>sayla</stem_correct>
+    <lemma>sayla,saylov</lemma>
+    <formed>sayla+v=saylov</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>29</index>
+    <word>tarqoq</word>
+    <stem_inflectional>tarqo</stem_inflectional>
+    <stem_correct>tarqa</stem_correct>
+    <lemma>tarqa,tarqoq</lemma>
+    <formed>tarqa+q=tarqoq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>30</index>
+    <word>sayroqi</word>
+    <stem_inflectional>sayro</stem_inflectional>
+    <stem_correct>sayra</stem_correct>
+    <lemma>sayra,sayroqi</lemma>
+    <formed>sayra+qi=sayroqi</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>31</index>
+    <word>yasha</word>
+    <stem_inflectional>yash</stem_inflectional>
+    <stem_correct>yosh</stem_correct>
+    <lemma>yosh,yasha</lemma>
+    <formed>yosh+a=yasha</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>32</index>
+    <word>sanashimiz</word>
+    <stem_inflectional>san</stem_inflectional>
+    <stem_correct>son</stem_correct>
+    <lemma>son,sana,sanash</lemma>
+    <formed>son+a+sh+imiz=sanashimiz</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>33</index>
+    <word>anglamoq</word>
+    <stem_inflectional>ang</stem_inflectional>
+    <stem_correct>ong</stem_correct>
+    <lemma>ong,angla,anglamoq</lemma>
+    <formed>ong+la+moq=anglamoq</formed>
+    <rule>I va a tovushi bilan tugagan so‘zlarga -v, -vchi qo‘shimchalari qo‘shilsa, i u ga, a o ga aylanadi</rule>
+  </row>
+  <row>
+    <index>34</index>
+    <word>yoqqich</word>
+    <stem_inflectional>yoq</stem_inflectional>
+    <stem_correct>yoq</stem_correct>
+    <lemma>yoq,yoqqich</lemma>
+    <formed>yoq+gich=yoqqich</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>35</index>
+    <word>ekkani</word>
+    <stem_inflectional>ek</stem_inflectional>
+    <stem_correct>ek</stem_correct>
+    <lemma>ek</lemma>
+    <formed>ek+gani=ekkani</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>36</index>
+    <word>bo‘yoq</word>
+    <stem_inflectional>bo‘yo</stem_inflectional>
+    <stem_correct>bo‘ya</stem_correct>
+    <lemma>bo‘ya,bo‘yoq</lemma>
+    <formed>bo‘ya+q=bo‘yoq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>37</index>
+    <word>o‘quv</word>
+    <stem_inflectional>o‘qu</stem_inflectional>
+    <stem_correct>o‘qi</stem_correct>
+    <lemma>o‘qi,o‘quv</lemma>
+    <formed>o‘qi+v=o‘quv</formed>
+    <rule>I va a tovushi bilan tugagan so‘zlarga -v, -vchi qo‘shimchalari qo‘shilsa, i u ga, a o ga aylanadi</rule>
+  </row>
+  <row>
+    <index>38</index>
+    <word>ata</word>
+    <stem_inflectional>at</stem_inflectional>
+    <stem_correct>ot</stem_correct>
+    <lemma>ot,ata</lemma>
+    <formed>ot+a=ata</formed>
+    <rule>I va a tovushi bilan tugagan so‘zlarga -v, -vchi qo‘shimchalari qo‘shilsa, i u ga, a o ga aylanadi</rule>
+  </row>
+  <row>
+    <index>39</index>
+    <word>tanlov</word>
+    <stem_inflectional>tanlo</stem_inflectional>
+    <stem_correct>tanla</stem_correct>
+    <lemma>tanla,tanlov</lemma>
+    <formed>tanla+v=tanlov</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>40</index>
+    <word>so‘roq</word>
+    <stem_inflectional>so‘ro</stem_inflectional>
+    <stem_correct>so‘ra</stem_correct>
+    <lemma>so‘ra,so‘roq</lemma>
+    <formed>so‘ra+q=so‘roq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>41</index>
+    <word>yashar</word>
+    <stem_inflectional>yash</stem_inflectional>
+    <stem_correct>yosh</stem_correct>
+    <lemma>yosh,yasha</lemma>
+    <formed>yosh+ar=yashar</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>42</index>
+    <word>qaynoq</word>
+    <stem_inflectional>qayno</stem_inflectional>
+    <stem_correct>qayna</stem_correct>
+    <lemma>qayna,qaynoq</lemma>
+    <formed>qayna+q=qaynoq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>43</index>
+    <word>bukkan</word>
+    <stem_inflectional>buk</stem_inflectional>
+    <stem_correct>buk</stem_correct>
+    <lemma>buk,bukkan</lemma>
+    <formed>buk+gan=bukkan</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>44</index>
+    <word>chiroqqa</word>
+    <stem_inflectional>chiroq</stem_inflectional>
+    <stem_correct>chiroq</stem_correct>
+    <lemma/>
+    <formed>chiroq+qa=chiroqqa</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>45</index>
+    <word>taroq</word>
+    <stem_inflectional>taro</stem_inflectional>
+    <stem_correct>tara</stem_correct>
+    <lemma/>
+    <formed>tara+q=taroq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>46</index>
+    <word>ilg'or </word>
+    <stem_inflectional>ilg'o</stem_inflectional>
+    <stem_correct>ilg'a</stem_correct>
+    <lemma/>
+    <formed>ilg‘a+r=ilg‘or</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>47</index>
+    <word>ishqor</word>
+    <stem_inflectional>ishqo</stem_inflectional>
+    <stem_correct>ishqa</stem_correct>
+    <lemma/>
+    <formed>ishqa+r=ishqor</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>48</index>
+    <word>o'ynoqi</word>
+    <stem_inflectional>o'yno</stem_inflectional>
+    <stem_correct>o'yin</stem_correct>
+    <lemma/>
+    <formed>o‘yna+q=o‘ynoqi</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>49</index>
+    <word>elagim</word>
+    <stem_inflectional>elag</stem_inflectional>
+    <stem_correct>ela</stem_correct>
+    <lemma/>
+    <formed>elak+elagim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>50</index>
+    <word>to'shagim</word>
+    <stem_inflectional>to'shag</stem_inflectional>
+    <stem_correct>to'sha</stem_correct>
+    <lemma/>
+    <formed>to‘shak+im=to‘shagim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>51</index>
+    <word>keragim</word>
+    <stem_inflectional>kerag</stem_inflectional>
+    <stem_correct>kerak</stem_correct>
+    <lemma/>
+    <formed>kerak+im=keragim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>52</index>
+    <word>ko'ylagim</word>
+    <stem_inflectional>ko'ylag</stem_inflectional>
+    <stem_correct>ko'ylak</stem_correct>
+    <lemma/>
+    <formed>ko‘ylak+im=ko‘ylagim</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>53</index>
+    <word>kelajakka</word>
+    <stem_inflectional>kelajag</stem_inflectional>
+    <stem_correct>kel</stem_correct>
+    <lemma/>
+    <formed>kelajak+ga=kelajakka</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>54</index>
+    <word>ko'makka</word>
+    <stem_inflectional>ko'mak</stem_inflectional>
+    <stem_correct>ko'mak</stem_correct>
+    <lemma/>
+    <formed>ko‘mak+ga=ko‘makka</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>55</index>
+    <word>qirg'oqqa</word>
+    <stem_inflectional>qirg'oq</stem_inflectional>
+    <stem_correct>qirg'oq</stem_correct>
+    <lemma/>
+    <formed>qirg‘oq+ga=qirg‘oqqa</formed>
+    <rule>G bilan boshlanuvchi qo‘shimchalar k bilan tugagan so‘zlarga -k shaklida, q bilan tugagan so‘zlarga -q shaklida qo‘shiladi</rule>
+  </row>
+  <row>
+    <index>56</index>
+    <word>quvnoq</word>
+    <stem_inflectional>quvno</stem_inflectional>
+    <stem_correct>quvna</stem_correct>
+    <lemma/>
+    <formed>quvna+q=quvnoq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+  <row>
+    <index>57</index>
+    <word>qatig'i</word>
+    <stem_inflectional>qatig'</stem_inflectional>
+    <stem_correct>qatiq</stem_correct>
+    <lemma/>
+    <formed>qatiq+q=qatig‘i</formed>
+    <rule>Jarangsiz undosh bilan tugagan so'zlarga unli bilan boshlanuvchi qo'shimcha qo'shilsa tovush jaranglilashadi</rule>
+  </row>
+  <row>
+    <index>58</index>
+    <word>yumshoq</word>
+    <stem_inflectional>yumsho</stem_inflectional>
+    <stem_correct>yumsha</stem_correct>
+    <lemma/>
+    <formed>yumsha+q=yumshoq</formed>
+    <rule>a tovushi bilan tugagan fe‘llarga -v,-q,-qi qo‘shimchalari qo‘shilganda asosdagi a tovushi o tovushiga aylanadi</rule>
+  </row>
+</data>

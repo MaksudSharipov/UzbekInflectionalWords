@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <word>ayrildi</word>
+    <stem_inflectional>ayr</stem_inflectional>
+    <stem_correct>ayir</stem_correct>
+    <lemma>ayir</lemma>
+    <formed>ayir+il = ayril</formed>
+    <rule>ba'zi fe'llarga -il majhul nisbat qo'shimchasi qo'shilganda ikkinchi bo'g'indagi i tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <index>1</index>
+    <word>ayrim</word>
+    <stem_inflectional>ayr</stem_inflectional>
+    <stem_correct>ayir</stem_correct>
+    <lemma>ayrim</lemma>
+    <formed>ayir+im = ayrim</formed>
+    <rule>ayir so'ziga -im so'z yasovchi qo'shimcha qo'shilganda i tovushi tusghib qoladi</rule>
+  </row>
+  <row>
+    <index>2</index>
+    <word>bag'rim</word>
+    <stem_inflectional>bag'r</stem_inflectional>
+    <stem_correct>bag'ir</stem_correct>
+    <lemma>bag'ir</lemma>
+    <formed>bag'ir+im = bag'rim</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>3</index>
+    <word>burni</word>
+    <stem_inflectional>burn</stem_inflectional>
+    <stem_correct>burun</stem_correct>
+    <lemma>burun </lemma>
+    <formed>burun+i = burni</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>4</index>
+    <word>buyruq</word>
+    <stem_inflectional>buyr</stem_inflectional>
+    <stem_correct>buyur</stem_correct>
+    <lemma>buyur, buyruq</lemma>
+    <formed>buyur+uq = buyruq</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud so'zlarlarga unli bilan boshlanuvchi qo'shimcha qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>5</index>
+    <word>ho'ngradi</word>
+    <stem_inflectional>ho'ngr</stem_inflectional>
+    <stem_correct>ho'ngir</stem_correct>
+    <lemma>ho'ngir, ho'ngra</lemma>
+    <formed>ho'ngir+a = ho'ngra</formed>
+    <rule>ikkinchi bo'g'inida i tovushi mavjud so'zlarga -a fe'l yasovchi qo'shimcha qo'shilganda, i tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>6</index>
+    <word>ikkala</word>
+    <stem_inflectional>ikk</stem_inflectional>
+    <stem_correct>ikki</stem_correct>
+    <lemma>ikki</lemma>
+    <formed>ikki+ala = ikkala</formed>
+    <rule>Ikki, olti,yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>7</index>
+    <word>ikkov</word>
+    <stem_inflectional>ikk</stem_inflectional>
+    <stem_correct>ikki</stem_correct>
+    <lemma>ikki</lemma>
+    <formed>ikki+ov = ikkov</formed>
+    <rule>Ikki, olti, yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>8</index>
+    <word>ikkovlon</word>
+    <stem_inflectional>ikk</stem_inflectional>
+    <stem_correct>ikki</stem_correct>
+    <lemma>ikki</lemma>
+    <formed>ikki+ovlon = ikkovlon</formed>
+    <rule>Ikki, olti, yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>9</index>
+    <word>ingra</word>
+    <stem_inflectional>ingr</stem_inflectional>
+    <stem_correct>ingir</stem_correct>
+    <lemma>ingir, ingra</lemma>
+    <formed>ingir+a = ingra</formed>
+    <rule>ikkinchi bo'g'inida i tovushi mavjud so'zlarga -a fe'l yasovchi qo'shimcha qo'shilganda, i tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>10</index>
+    <word>ko'nglim</word>
+    <stem_inflectional>ko'ngl</stem_inflectional>
+    <stem_correct>ko'ngil</stem_correct>
+    <lemma>ko'ngil</lemma>
+    <formed>ko'ngil+im = ko'nglim</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>11</index>
+    <word>meni</word>
+    <stem_inflectional>men</stem_inflectional>
+    <stem_correct>men</stem_correct>
+    <lemma>men</lemma>
+    <formed>men+ni = meni</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <index>12</index>
+    <word>meniki</word>
+    <stem_inflectional>men</stem_inflectional>
+    <stem_correct>men</stem_correct>
+    <lemma>men</lemma>
+    <formed>men+niki = meniki</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <index>13</index>
+    <word>mening</word>
+    <stem_inflectional>men</stem_inflectional>
+    <stem_correct>men</stem_correct>
+    <lemma>men</lemma>
+    <formed>men+ning = mening</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <index>14</index>
+    <word>og'zaki</word>
+    <stem_inflectional>og'z</stem_inflectional>
+    <stem_correct>og'iz</stem_correct>
+    <lemma>og'iz, og'zaki</lemma>
+    <formed>og'iz+aki = og'zaki</formed>
+    <rule>og'iz so'ziga -aki sifat yasovchi qo'shimcha qo'shilganda asosdagi i tovushui tushib qoladi</rule>
+  </row>
+  <row>
+    <index>15</index>
+    <word>og'zi</word>
+    <stem_inflectional>og'z</stem_inflectional>
+    <stem_correct>og'iz</stem_correct>
+    <lemma>og'iz</lemma>
+    <formed>og'iz+i = og'zi</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>16</index>
+    <word>oltovlon</word>
+    <stem_inflectional>olt</stem_inflectional>
+    <stem_correct>olti</stem_correct>
+    <lemma>olti</lemma>
+    <formed>olti+ovlon = oltovlon</formed>
+    <rule>Ikki, olti, yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>17</index>
+    <word>pasay</word>
+    <stem_inflectional>pas</stem_inflectional>
+    <stem_correct>past</stem_correct>
+    <lemma>past, pasay</lemma>
+    <formed>past+ay = pasay</formed>
+    <rule>Past, sust so'zlariga -ay fe'l yasovchi qo'shimcha qo'shilganda t tovushi tushib qoladi. </rule>
+  </row>
+  <row>
+    <index>18</index>
+    <word>qayrildi</word>
+    <stem_inflectional>qayr</stem_inflectional>
+    <stem_correct>qayir</stem_correct>
+    <lemma>qayir</lemma>
+    <formed>qayir+il = qayril</formed>
+    <rule>ba'zi fe'llarga -il majhul nisbat qo'shimchasi qo'shilganda ikkinchi bo'g'indagi i tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <index>19</index>
+    <word>qizardi</word>
+    <stem_inflectional>qiz</stem_inflectional>
+    <stem_correct>qizil</stem_correct>
+    <lemma>qizil, qizar</lemma>
+    <formed>qizil+ar = qizar</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud so'zlarlarga unli bilan boshlanuvchi qo'shimcha qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>20</index>
+    <word>qiynaldi</word>
+    <stem_inflectional>qiyn</stem_inflectional>
+    <stem_correct>qiyin</stem_correct>
+    <lemma>qiyin, qiyna</lemma>
+    <formed>qiyin+a =qiyna</formed>
+    <rule>ikkinchi bo'g'inida i tovushi mavjud so'zlarga -a fe'l yasovchi qo'shimcha qo'shilganda, i tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>21</index>
+    <word>qornim</word>
+    <stem_inflectional>qorn</stem_inflectional>
+    <stem_correct>qorin</stem_correct>
+    <lemma>qorin</lemma>
+    <formed>qorina+im = qornim</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>22</index>
+    <word>sarg'aydi</word>
+    <stem_inflectional>sarg'</stem_inflectional>
+    <stem_correct>sariq</stem_correct>
+    <lemma>sariq, sarg'ay</lemma>
+    <formed>sariq+ay = sarg'ay</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud so'zlarlarga unli bilan boshlanuvchi qo'shimcha qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>23</index>
+    <word>seni</word>
+    <stem_inflectional>sen</stem_inflectional>
+    <stem_correct>sen</stem_correct>
+    <lemma>sen</lemma>
+    <formed>sen+ni = seni</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <index>24</index>
+    <word>seniki</word>
+    <stem_inflectional>sen</stem_inflectional>
+    <stem_correct>sen</stem_correct>
+    <lemma>sen</lemma>
+    <formed>sen+niki = seniki</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <index>25</index>
+    <word>sening</word>
+    <stem_inflectional>sen</stem_inflectional>
+    <stem_correct>sen</stem_correct>
+    <lemma>sen</lemma>
+    <formed>sen+ning = sening</formed>
+    <rule>Men, sen kishilik olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda bitta n tovushi tushib qoladi</rule>
+  </row>
+  <row>
+    <index>26</index>
+    <word>singli</word>
+    <stem_inflectional>singl</stem_inflectional>
+    <stem_correct>singil</stem_correct>
+    <lemma>singil</lemma>
+    <formed>singil+i = singli</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>27</index>
+    <word>susaydi</word>
+    <stem_inflectional>sus</stem_inflectional>
+    <stem_correct>sust</stem_correct>
+    <lemma>sust, susay</lemma>
+    <formed>sust + ay = susay</formed>
+    <rule>Past, sust so'zlariga -ay fe'l yasovchi qo'shimcha qo'shilganda t tovushi tushib qoladi. </rule>
+  </row>
+  <row>
+    <index>28</index>
+    <word>ulg'ay</word>
+    <stem_inflectional>ulg'</stem_inflectional>
+    <stem_correct>ulug'</stem_correct>
+    <lemma>ulug', ulg'ay</lemma>
+    <formed>ulug'+ay = ulg'ay</formed>
+    <rule>ulug' so'ziga -ay fe'l yasovchi qo'shimcha qo'shilganda ikkinchi bo'gindagi u tovushi tushib qoladi. </rule>
+  </row>
+  <row>
+    <index>29</index>
+    <word>o'rnatdi</word>
+    <stem_inflectional>o'rn</stem_inflectional>
+    <stem_correct>o'rin</stem_correct>
+    <lemma>o'rin, o'rna</lemma>
+    <formed>o'rin+a = o'rna</formed>
+    <rule>ikkinchi bo'g'inida i tovushi mavjud so'zlarga -a fe'l yasovchi qo'shimcha qo'shilganda, i tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>30</index>
+    <word>o'rnim</word>
+    <stem_inflectional>o'rn</stem_inflectional>
+    <stem_correct>o'rin</stem_correct>
+    <lemma>o'rin</lemma>
+    <formed>o'rin+im = o'rnim</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>31</index>
+    <word>o'ynadi</word>
+    <stem_inflectional>o'yn</stem_inflectional>
+    <stem_correct>o'yin</stem_correct>
+    <lemma>o'yin, o'yna</lemma>
+    <formed>o'yin+a = o'yna</formed>
+    <rule>ikkinchi bo'g'inida i tovushi mavjud so'zlarga -a fe'l yasovchi qo'shimcha qo'shilganda, i tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>32</index>
+    <word>o'g'li</word>
+    <stem_inflectional>o'g'l</stem_inflectional>
+    <stem_correct>o'g'li</stem_correct>
+    <lemma>o'g'il</lemma>
+    <formed>o'g'il+i = o'g'li</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>33</index>
+    <word>yetolmadi</word>
+    <stem_inflectional>yetol</stem_inflectional>
+    <stem_correct>yeta ol</stem_correct>
+    <lemma>yetol</lemma>
+    <formed>yeta+ol = yetol</formed>
+    <rule>ko'makchi fe'lli so'z qo'shilmasida olmoq ko'makchi fe'li yetakchi fe'lga qo'shib yozilganda yetakchi fe'lning oxirgi a tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>34</index>
+    <word>yettov</word>
+    <stem_inflectional>yett</stem_inflectional>
+    <stem_correct>yetti</stem_correct>
+    <lemma>yetti</lemma>
+    <formed>yetti+ov = yettov</formed>
+    <rule>Ikki, olti, yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>35</index>
+    <word>yettovlon</word>
+    <stem_inflectional>yett</stem_inflectional>
+    <stem_correct>yetti</stem_correct>
+    <lemma>yetti</lemma>
+    <formed>yetti+ovlon = yettovlon</formed>
+    <rule>Ikki, olti, yetti sonlariga jamlovchi son qo'shimchalari qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>36</index>
+    <word>yig'la</word>
+    <stem_inflectional>yig'</stem_inflectional>
+    <stem_correct>yig'i</stem_correct>
+    <lemma>yig'i, yig'la</lemma>
+    <formed>yig'i+la = yig'la</formed>
+    <rule>i tovushi bilan tugagan otlarga -la fe'l yasovchi qo'shimcha qo'shilganda i tovushi tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>37</index>
+    <word>zahri</word>
+    <stem_inflectional>zahr</stem_inflectional>
+    <stem_correct>zahar</stem_correct>
+    <lemma>zahar</lemma>
+    <formed>zahar+i = zahri</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+  <row>
+    <index>38</index>
+    <word>shahri</word>
+    <stem_inflectional>shahr</stem_inflectional>
+    <stem_correct>shahar</stem_correct>
+    <lemma>shahar</lemma>
+    <formed>shahar+i = shahri</formed>
+    <rule>ikkinchi bo'g'inida i,u,a tovushlari mavjud otlarga egalik qo'shimchasi qo'shilganda, i,u,a tushib qoladi.</rule>
+  </row>
+</data>
